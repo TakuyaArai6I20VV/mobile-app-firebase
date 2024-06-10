@@ -29,4 +29,4 @@ Firebase Realtime Databaseを使用して買い物リストを管理するWebア
 ## セットアップ
 
 1. Firebase プロジェクトを作成し、Realtime Databaseを有効にします。
-2. `index.js`ファイルの`firebase-config`にFirebase プロジェクトの設定情報を追加します。
+2. `index.js`ファイルの`firebaseConfig`にFirebase プロジェクトの設定情報を追加します。
